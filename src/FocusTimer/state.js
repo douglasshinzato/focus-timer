@@ -1,3 +1,5 @@
+//Aqui está o estado inicial da aplicação.
+
 export default {
   minutes: 0,
   seconds: 0,
